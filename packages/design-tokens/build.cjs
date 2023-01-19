@@ -7,7 +7,7 @@ const {
   kebabCase,
   colorRGB,
 } = require('./utils/transforms.cjs')
-const { DARK, LIGHT, MOBILE, WEB } = require('./utils/vars.cjs')
+const { DARK, FLOW_DARK, LIGHT, MOBILE, WEB } = require('./utils/vars.cjs')
 const { parsers } = require('./utils/configOptions/baseOptions.cjs')
 const { getWebConfig } = require('./utils/platforms/web.cjs')
 const { getMobileConfig } = require('./utils/platforms/mobile.cjs')
@@ -105,8 +105,8 @@ const brands = {
       themes: [LIGHT, DARK],
     },
     flow: {
-      platforms: [],
-      themes: [],
+      platforms: [WEB],
+      themes: [FLOW_DARK],
     },
   },
 }

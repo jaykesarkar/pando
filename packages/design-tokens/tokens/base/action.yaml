@@ -6,7 +6,7 @@ ps:
       light:
         value: '#3C28B1'
       flow-dark:
-        value: ''
+        value: '#0074ab'
       flow-light:
         value: ''
     background-hover:
@@ -78,7 +78,7 @@ ps:
       light:
         value: '#0969DA'
       flow-dark:
-        value: ''
+        value: '#2ea0d6'
       flow-light:
         value: ''
     navigation-hover:
@@ -87,7 +87,7 @@ ps:
       light:
         value: '#0969DA'
       flow-dark:
-        value: ''
+        value: '#0074ab'
       flow-light:
         value: ''
     navigation-visited:

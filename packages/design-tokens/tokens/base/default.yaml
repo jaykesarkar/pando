@@ -59,7 +59,7 @@ ps:
     light:
       value: '#FFFFFF'
     flow-dark:
-      value: ''
+      value: '#181c20'
     flow-light:
       value: ''
   surface-weak:
@@ -68,7 +68,7 @@ ps:
     light:
       value: '#f4f7fa'
     flow-dark:
-      value: ''
+      value: '#1e2428'
     flow-light:
       value: ''
   surface-medium:
@@ -104,7 +104,7 @@ ps:
     light:
       value: '#3E5674'
     flow-dark:
-      value: ''
+      value: '#fffffff2'
     flow-light:
       value: ''
   text-weak:
@@ -113,7 +113,7 @@ ps:
     light:
       value: '#546F92'
     flow-dark:
-      value: ''
+      value: '#ffffffb3'
     flow-light:
       value: ''
   text-medium:
